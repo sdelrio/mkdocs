@@ -1,6 +1,6 @@
 FROM python:3.5-alpine
 
-ENV MKDOCS_VERSION="0.17.2"
+ENV MKDOCS_VERSION 0.17.2
 
 RUN pip3 install mkdocs==${MKDOCS_VERSION}
 
