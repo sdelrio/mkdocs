@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sdelrio/mkdocs.svg?branch=master)](https://travis-ci.org/sdelrio/mkdocs)
+
 # mkdocs docker image
 
 Use mkdocs under a small docker image.
